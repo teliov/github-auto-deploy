@@ -1,0 +1,21 @@
+{
+  "name": "github-auto-deploy",
+
+  "authors": [
+    {
+      "name": "Obinna Agba",
+      "role": "developer",
+      "email": "obinna@mobnia.com",
+      "homepage": "http://www.mobnia.com"
+    }
+  ],
+
+  "keywords": [
+    "github", "deploy", "auto", "auto-deploy", "php"
+  ],
+
+  "require": {
+    "klein/klein": "2.1.*",
+    "katzgrau/klogger": "dev-master"
+  }
+}
