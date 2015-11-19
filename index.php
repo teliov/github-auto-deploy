@@ -6,8 +6,11 @@
  * Time: 5:32 PM
  */
 
+<<<<<<< HEAD
 require_once(__DIR__."/vendor/autoload.php");
 
+=======
+>>>>>>> 243ff3f68017a55d3cae974071caad2e3cecad54
 $klein = new \Klein\Klein();
 
 $klein->respond('POST', '/handle', function(\Klein\Request $request, \Klein\Response $response){
